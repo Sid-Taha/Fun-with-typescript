@@ -1,0 +1,21 @@
+{
+  "name": "new-video-code-by-sid",
+  "version": "1.0.0",
+  "description": "This is cli based application",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taha",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.17.0",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
